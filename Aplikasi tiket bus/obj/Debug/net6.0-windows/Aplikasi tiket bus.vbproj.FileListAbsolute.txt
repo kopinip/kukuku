@@ -1,0 +1,16 @@
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\bin\Debug\net6.0-windows\Aplikasi tiket bus.exe
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\bin\Debug\net6.0-windows\Aplikasi tiket bus.deps.json
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\bin\Debug\net6.0-windows\Aplikasi tiket bus.runtimeconfig.json
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\bin\Debug\net6.0-windows\Aplikasi tiket bus.dll
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\bin\Debug\net6.0-windows\Aplikasi tiket bus.pdb
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\Aplikasi_tiket_bus.Form1.resources
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\Aplikasi tiket bus.vbproj.GenerateResource.cache
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\Aplikasi tiket bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\Aplikasi tiket bus.AssemblyInfoInputs.cache
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\Aplikasi tiket bus.AssemblyInfo.vb
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\Aplikasi tiket bus.vbproj.CoreCompileInputs.cache
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\Aplikasi tiket bus.dll
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\refint\Aplikasi tiket bus.dll
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\Aplikasi tiket bus.pdb
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\Aplikasi tiket bus.genruntimeconfig.cache
+C:\Pemograman\PEM DEKS\Pemograman Deks\Aplikasi tiket bus\obj\Debug\net6.0-windows\ref\Aplikasi tiket bus.dll
